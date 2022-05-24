@@ -56,4 +56,15 @@
       order: 3;
     }
 
+    /*FORM*/
+    .form-suscripcion {
+      max-width: 90vh;
+    }
+
+    .form-suscripcion .botons {
+      padding: 35px;
+      margin-top: 45px;
+      font-size: 30px;
+    }
+
   }

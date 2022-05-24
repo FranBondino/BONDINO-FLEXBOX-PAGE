@@ -1,0 +1,44 @@
+h4 {
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+.form-suscripcion {
+    max-width: 50vh;
+    min-height: 70vh;
+    background: #2d3135;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 6px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #24303c;
+    padding: 25px;
+    border-radius: 4px;
+    margin-bottom: 35px;
+    margin-top: 10px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+  
+  .form-suscripcion .botons {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 20px;
+    margin-top: 25px;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+
+
+  
